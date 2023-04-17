@@ -17,6 +17,8 @@ class AddaPlayer(BasePage):
     password_field_xpath = "//*[@id='password']"
     sign_in_button_xpath = "//*[text()= 'Sign in']"
     add_player_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[2]/div/div/a/button/span[1]"
+    player_form_xpath = "//*[contains(@class,'MuiGrid-root')]"
+    player_form_url = "https://scouts-test.futbolkolektyw.pl/en/players/add"
     expected_title = "Add player"
 
     def type_in_email(self, email):
@@ -31,8 +33,8 @@ class AddaPlayer(BasePage):
     def click_on_the_sign_in_button(self):
         self.click_on_the_element(self.sign_in_button_xpath)
 
-    def check_button_title(self):
+    def check_page_title(self):
         time.sleep(5)
-        assert self.get_button_title() == self.expected_title
+        assert self.get_page_title() == self.expected_title
 
 

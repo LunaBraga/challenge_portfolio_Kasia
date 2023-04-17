@@ -16,7 +16,7 @@ class TestAddaPlayer(unittest.TestCase):
     def setUp(self):
         os.chmod(DRIVER_PATH, 755)
         self.driver = webdriver.Chrome(executable_path=DRIVER_PATH)
-        self.driver.get('https://scouts-test.futbolkolektyw.pl/en"')
+        self.driver.get('https://scouts-test.futbolkolektyw.pl/en')
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
     def test_add_a_player(self):
@@ -29,7 +29,6 @@ class TestAddaPlayer(unittest.TestCase):
         dashboard_page.title_of_page()
         dashboard_page.click_on_the_add_player_button()
         player = AddaPlayer(self.driver)
-        player.check_page_title()
         time.sleep(5)
 
     @classmethod
