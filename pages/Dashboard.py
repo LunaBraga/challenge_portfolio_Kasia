@@ -15,6 +15,8 @@ class Dashboard(BasePage):
     event_count_text_xpath = "//*[text()='Events count']"
     add_player_hyperlink_xpath = "//*[text()='Add player']"
 
+
     def title_of_page(self):
         time.sleep(5)
         assert self.get_page_title() == self.expected_title
+
