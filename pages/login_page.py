@@ -1,5 +1,5 @@
+import time
 from pages.base_page import BasePage
-
 
 class LoginPage(BasePage):
     remind_password_hyperlink_xpath = "//*[text()='Remind password']"
@@ -11,6 +11,8 @@ class LoginPage(BasePage):
     login_field_xpath = "//*[@id='login']"
     back_to_sign_in_hyperlink_xpath = "//*[text()='Back to sign in']"
     send_button_xpath = "//*[text()='Send']"
+    expected_text_xpath = "//*[text()='Scouts Panel']"
+    expected_text = "Scouts Panel"
 
     def type_in_email(self, email):
         self.field_send_keys(self.login_field_xpath, email)
@@ -23,3 +25,7 @@ class LoginPage(BasePage):
 
     def check_login_title(self):
         assert self.get_page_title() == self.expected_title
+
+    def comparing_text(self):
+        time.sleep(5)
+        self.assert_element_text(self.driver, self.expected_text_xpath, self.expected_text)
