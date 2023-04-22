@@ -46,6 +46,7 @@ class AddaPlayer(BasePage):
 
     def type_in_password(self, password):
         self.field_send_keys(self.password_field_xpath, password)
+
     def type_in_email(self, email):
         self.field_send_keys(self.email_field_xpath, email)
 
@@ -87,7 +88,6 @@ class AddaPlayer(BasePage):
 
     def type_in_achievements(self):
         self.field_send_keys(self.achievements_xpath)
-
 
     def type_in_laczy_nas_pilka(self):
         self.field_send_keys(self.laczy_nas_pilka_xpath)

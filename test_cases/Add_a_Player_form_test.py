@@ -21,7 +21,7 @@ class TestAddaPlayer(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
-     def test_add_a_player_form(self):
+     def test_add_a_player(self):
          user_login = LoginPage(self.driver)
          user_login.check_login_title()
          user_login.type_in_email('user02@getnada.com')
