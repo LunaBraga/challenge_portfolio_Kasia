@@ -1,13 +1,20 @@
 import time
+from lib2to3.pgen2 import driver
+
+from selenium.webdriver.support.wait import WebDriverWait
+
 from pages.base_page import BasePage
 
 
 class Dashboard(BasePage):
+    futbol_kolektyw_button_xpath = '//*[@title="Logo Scouts Panel"]'
     expected_title = "Scouts panel"
     dashboard_url = 'https://scouts-test.futbolkolektyw.pl/'
+    wait = WebDriverWait(driver, 10)
     main_page_hyperlink_xpath = "//*[contains(@class, 'MuiTypography-root')]"
     players_text_xpath = "//*[text()='Players']"
     english_language_xpath = "//*[text()='English']"
+    language_field_xpath = "//*[@id='__next']/div[1]/div/div/div/ul[2]/div[1]/div[2]/span"
     sign_out_button_xpath = "//*[text()='Sign out']"
     players_count_text_xpath = "//*[text()='Players count']"
     count_text_xpath = "//*[text()='Matches count']"
@@ -16,11 +23,18 @@ class Dashboard(BasePage):
     add_player_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[2]/div/div/a/button/span[1]"
 
     def title_of_page(self):
-        time.sleep(5)
+        self.wait_for_element_to_be_clickable(self.futbol_kolektyw_button_xpath)
         assert self.get_page_title() == self.expected_title
+
+    def click_on_the_sign_out_button(self):
+        self.click_on_the_element(self.sign_out_button_xpath)
+
+    def click_on_the_polski_button (self):
+        self.click_on_the_element(self.language_field_xpath)
+
     def click_on_the_add_player_button(self):
-        time.sleep(5)
         self.click_on_the_element(self.add_player_button_xpath)
+
 
 
 
