@@ -4,9 +4,8 @@ from pages.base_page import BasePage
 
 
 class AddaPlayer(BasePage):
-    add_player_text_xpath = "//*[text()='Add player']"
-    email_field_xpath = "//*[contains(@class, 'MuiInputBase')]"
-    email_text_add_player_xpath = "//*[text()='E-mail']"
+    expected_text_xpath = "//*[text()='Add player']"
+    email_field_add_player_xpath = "//*[contains(@class, 'MuiInputBase')]"
     name_field_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[2]/div/div[2]/div/div/input"
     surname_field_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[2]/div/div[3]/div/div/input"
     phone_text_xpath = "//*[text()='Phone']"
@@ -41,11 +40,10 @@ class AddaPlayer(BasePage):
     player_form_url = "https://scouts-test.futbolkolektyw.pl/en/players/add"
     expected_title = "Add player"
 
-    def type_in_password(self, password):
-        self.field_send_keys(self.password_field_xpath, password)
 
     def type_in_email(self, email):
-        self.field_send_keys(self.email_field_xpath, email)
+        time.sleep(5)
+        self.field_send_keys(self.email_field_add_player_xpath, email)
 
     def type_in_name(self, name):
         self.field_send_keys(self.name_field_xpath, name)
@@ -107,3 +105,4 @@ class AddaPlayer(BasePage):
     def check_page_title(self):
         time.sleep(5)
         assert self.get_page_title() == self.expected_title
+

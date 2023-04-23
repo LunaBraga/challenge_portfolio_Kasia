@@ -21,7 +21,7 @@ class TestAddaPlayer(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
-    def test_add_a_player_form(self):
+    def test_Add_a_Player_form(self):
         user_login = LoginPage(self.driver)
         user_login.check_login_title()
         user_login.type_in_email('user02@getnada.com')
@@ -31,8 +31,9 @@ class TestAddaPlayer(unittest.TestCase):
         dashboard_page.title_of_page()
         dashboard_page.click_on_the_add_player_button()
         player = AddaPlayer(self.driver)
-        player.type_in_email('mail@getnada.com')
-        player.type_in_name('Atena')
+        player.check_page_title()
+        player.type_in_email('house')
+        player.type_in_name('Anna')
         player.type_in_surname('Stone')
         player.type_in_phone('+48678903234')
         player.type_in_weight('58kg')
