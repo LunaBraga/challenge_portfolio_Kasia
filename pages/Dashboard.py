@@ -21,6 +21,7 @@ class Dashboard(BasePage):
     reports_count_xpath = "//*[text()='Reports count']"
     event_count_text_xpath = "//*[text()='Events count']"
     add_player_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[2]/div/div/a/button/span[1]"
+    super_man_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[3]/div/div/a[5]/button/span[1]"
 
     def title_of_page(self):
         self.wait_for_element_to_be_clickable(self.futbol_kolektyw_button_xpath)
@@ -28,6 +29,9 @@ class Dashboard(BasePage):
 
     def click_on_the_sign_out_button(self):
         self.click_on_the_element(self.sign_out_button_xpath)
+
+    def click_on_the_super_man_button(self):
+        self.click_on_the_element(self.super_man_button_xpath)
 
     def click_on_the_polski_button (self):
         self.click_on_the_element(self.language_field_xpath)

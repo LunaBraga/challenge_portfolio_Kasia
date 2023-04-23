@@ -2,6 +2,7 @@ import time
 
 from pages.base_page import BasePage
 
+
 class AddaPlayer(BasePage):
     add_player_text_xpath = "//*[text()='Add player']"
     email_field_xpath = "//*[contains(@class, 'MuiInputBase')]"
@@ -40,63 +41,59 @@ class AddaPlayer(BasePage):
     player_form_url = "https://scouts-test.futbolkolektyw.pl/en/players/add"
     expected_title = "Add player"
 
-
-    def type_in_email(self, email):
-        self.field_send_keys(self.login_field_xpath, email)
-
     def type_in_password(self, password):
         self.field_send_keys(self.password_field_xpath, password)
 
     def type_in_email(self, email):
         self.field_send_keys(self.email_field_xpath, email)
 
-    def type_in_name(self):
-        self.field_send_keys(self.name_field_xpath)
+    def type_in_name(self, name):
+        self.field_send_keys(self.name_field_xpath, name)
 
-    def type_in_surname(self):
-        self.field_send_keys(self.surname_field_xpath)
+    def type_in_surname(self, surname):
+        self.field_send_keys(self.surname_field_xpath, surname)
 
-    def type_in_phone(self):
-        self.field_send_keys(self.phone_field_xpath)
+    def type_in_phone(self, phone):
+        self.field_send_keys(self.phone_field_xpath, phone)
 
-    def type_in_weight(self):
-        self.field_send_keys(self.weight_field_xpath)
+    def type_in_weight(self, weight):
+        self.field_send_keys(self.weight_field_xpath, weight)
 
-    def type_in_height(self):
-        self.field_send_keys(self.height_field_xpath)
+    def type_in_height(self, height):
+        self.field_send_keys(self.height_field_xpath, height)
 
-    def type_in_age(self):
-        self.field_send_keys(self.age_field_xpath)
+    def type_in_age(self, age):
+        self.field_send_keys(self.age_field_xpath, age)
 
-    def type_in_club(self):
-        self.field_send_keys(self.club_xpath)
+    def type_in_club(self, club):
+        self.field_send_keys(self.club_xpath, club)
 
-    def click_on_the_right_leg(self):
-        self.click_on_the_element(self.right_leg_dropdown_xpath)
+    def click_on_the_right_leg(self, leg):
+        self.click_on_the_element(self.right_leg_dropdown_xpath, leg)
 
-    def type_in_level(self):
-        self.field_send_keys(self.level_xpath)
+    def type_in_level(self, level):
+        self.field_send_keys(self.level_xpath, level)
 
-    def type_in_main_position(self):
-        self.field_send_keys(self.main_position_xpath)
+    def type_in_main_position(self, main):
+        self.field_send_keys(self.main_position_xpath, main)
 
-    def type_in_second_position(self):
-        self.field_send_keys(self.second_position_xpath)
+    def type_in_second_position(self, second):
+        self.field_send_keys(self.second_position_xpath, second)
 
-    def click_on_the_lower_silesia(self):
-        self.click_on_the_element(self.lower_silesia_dropdown_xpath)
+    def click_on_the_lower_silesia(self, lower):
+        self.click_on_the_element(self.lower_silesia_dropdown_xpath, lower)
 
-    def type_in_achievements(self):
-        self.field_send_keys(self.achievements_xpath)
+    def type_in_achievements(self, achievements):
+        self.field_send_keys(self.achievements_xpath, achievements)
 
-    def type_in_laczy_nas_pilka(self):
-        self.field_send_keys(self.laczy_nas_pilka_xpath)
+    def type_in_laczy_nas_pilka(self, pilka):
+        self.field_send_keys(self.laczy_nas_pilka_xpath, pilka)
 
-    def type_in_minut(self):
-        self.field_send_keys(self.minut_xpath)
+    def type_in_minut(self, minut):
+        self.field_send_keys(self.minut_xpath, minut)
 
-    def type_in_facebook(self):
-        self.field_send_keys(self.facebook_xpath)
+    def type_in_facebook(self, facebook):
+        self.field_send_keys(self.facebook_xpath, facebook)
 
     def click_on_the_add_player_button(self):
         self.click_on_the_element(self.add_player_button_xpath)

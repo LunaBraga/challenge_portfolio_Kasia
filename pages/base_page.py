@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from utils.settings import DEFAULT_LOCATOR_TYPE, EXPLICITLY_WAIT
 
+
 class BasePage():
 
     def __init__(self, driver: WebDriver):
@@ -24,12 +25,12 @@ class BasePage():
     def get_page_title(self):
         return self.driver.title
 
-    def assert_element_text ( self, driver, xpath, expected_text):
+    def assert_element_text(self, driver, xpath, expected_text):
         """Comparing expected text with observed value from web element
 
            :param driver: webdriver instance
            :param xpath: xpath to element with text to be observed
-           :param expected_text: text what we expecting to be found
+           :param expected_text: text what we are expecting to be found
            :return: None
         """
         element = driver.find_element(by=By.XPATH, value=xpath)
