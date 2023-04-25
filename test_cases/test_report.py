@@ -8,6 +8,7 @@ from pages.Add_a_Player import AddaPlayer
 from pages.Dashboard import Dashboard
 from pages.base_page import BasePage
 from pages.login_page import LoginPage
+from pages.report import Report
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
@@ -28,7 +29,6 @@ class TestReport(unittest.TestCase):
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
         dashboard_page.click_on_the_super_man_button()
-        player = AddaPlayer(self.driver)
         players = Report(self.driver)
         players.click_on_the_reports_button()
         players.click_on_the_add_report_button()

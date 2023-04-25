@@ -22,6 +22,8 @@ class Dashboard(BasePage):
     event_count_text_xpath = "//*[text()='Events count']"
     add_player_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[2]/div/div/a/button/span[1]"
     super_man_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[3]/div/div/a[5]/button/span[1]"
+    added_player_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[3]/div/div/a[1]/button/span[1]"
+    expected_text = "Anna Stone"
 
     def title_of_page(self):
         self.wait_for_element_to_be_clickable(self.futbol_kolektyw_button_xpath)
@@ -33,12 +35,12 @@ class Dashboard(BasePage):
     def click_on_the_super_man_button(self):
         self.click_on_the_element(self.super_man_button_xpath)
 
-    def click_on_the_polski_button (self):
+    def click_on_the_polski_button(self):
         self.click_on_the_element(self.language_field_xpath)
 
     def click_on_the_add_player_button(self):
         self.click_on_the_element(self.add_player_button_xpath)
 
-
-
-
+    def comparing_text(self):
+        time.sleep(5)
+        self.assert_element_text(self.driver, self.added_player_xpath, self.expected_text)

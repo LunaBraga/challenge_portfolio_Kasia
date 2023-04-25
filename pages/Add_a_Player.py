@@ -5,7 +5,7 @@ from pages.base_page import BasePage
 
 class AddaPlayer(BasePage):
     expected_text_xpath = "//*[text()='Add player']"
-    email_field_add_player_xpath = "//*[contains(@class, 'MuiInputBase')]"
+    email_field_add_player_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[2]/div/div[1]/div/div/input"
     name_field_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[2]/div/div[2]/div/div/input"
     surname_field_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[2]/div/div[3]/div/div/input"
     phone_text_xpath = "//*[text()='Phone']"
@@ -23,10 +23,10 @@ class AddaPlayer(BasePage):
     facebook_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[2]/div/div[18]/div/div/input"
     level_text_xpath = "//*[text()='Level']"
     right_leg_dropdown_xpath = "// *[ @ id = 'menu-leg'] / div[3] / ul / li[1]"
-    left_leg_dropdown_xpath = "//*[@id='menu-leg']/div[3]/ul/li[2]"
     leg_field_xpath = "//*[@id='mui-component-select-leg']"
-    district_dropdown_xpath = "//*[@id='menu-district']/div[3]/ul/li[1]"
-    lower_silesia_dropdown_xpath = "//*[@id='menu-district']/div[3]/ul/li[1]"
+    left_leg_dropdown_xpath = "//*[@id='menu-leg']/div[3]/ul/li[2]"
+    district_dropdown_xpath = "//*[@id='mui-component-select-district']"
+    lower_silesia_xpath = "//*[@id='menu-district']/div[3]/ul/li[1]"
     submit_button_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[3]/button[1]/span[1]"
     clear_button_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[3]/button[2]/span[1]"
     clear_text_button_xpath = "//*[text()='Clear']"
@@ -39,7 +39,7 @@ class AddaPlayer(BasePage):
     player_form_xpath = "//*[contains(@class,'MuiGrid-root')]"
     player_form_url = "https://scouts-test.futbolkolektyw.pl/en/players/add"
     expected_title = "Add player"
-
+    main_page_button_xpath = "//*[@id='__next']/div[1]/div/div/div/ul[1]/div[1]/div[2]/span"
 
     def type_in_email(self, email):
         time.sleep(5)
@@ -66,8 +66,12 @@ class AddaPlayer(BasePage):
     def type_in_club(self, club):
         self.field_send_keys(self.club_xpath, club)
 
-    def click_on_the_right_leg(self, leg):
-        self.click_on_the_element(self.right_leg_dropdown_xpath, leg)
+    def click_on_the_leg(self):
+        self.click_on_the_element(self.leg_field_xpath)
+
+    def click_on_the_right_leg(self):
+        time.sleep(5)
+        self.click_on_the_element(self.right_leg_dropdown_xpath)
 
     def type_in_level(self, level):
         self.field_send_keys(self.level_xpath, level)
@@ -78,8 +82,12 @@ class AddaPlayer(BasePage):
     def type_in_second_position(self, second):
         self.field_send_keys(self.second_position_xpath, second)
 
-    def click_on_the_lower_silesia(self, lower):
-        self.click_on_the_element(self.lower_silesia_dropdown_xpath, lower)
+    def click_on_the_district(self):
+        self.click_on_the_element(self.district_dropdown_xpath)
+
+    def click_on_the_lower_silesia(self):
+        time.sleep(5)
+        self.click_on_the_element(self.lower_silesia_xpath)
 
     def type_in_achievements(self, achievements):
         self.field_send_keys(self.achievements_xpath, achievements)
@@ -102,7 +110,12 @@ class AddaPlayer(BasePage):
     def click_on_the_submit_button(self):
         self.click_on_the_element(self.submit_button_xpath)
 
+    def click_on_the_main_page_button(self):
+        self.click_on_the_element(self.main_page_button_xpath)
+
+    def click_on_the_clear_button(self):
+        self.click_on_the_element(self.clear_button_xpath)
+
     def check_page_title(self):
         time.sleep(5)
         assert self.get_page_title() == self.expected_title
-
