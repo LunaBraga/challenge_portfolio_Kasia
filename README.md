@@ -82,3 +82,8 @@ Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzę
 <li>//*[text()="Back to sign in"]</li> 
 <li>//*[contains(@class, "MuiTypography-root MuiLink")]</li> 
 </ul>
+
+# Zadanie 4
+
+https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sharing
+
