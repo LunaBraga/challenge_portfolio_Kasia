@@ -4,6 +4,7 @@ from pages.base_page import BasePage
 
 
 class AddaPlayer(BasePage):
+    add_player = "//*[@id='__next']/div[1]/main/div[2]/form/div[1]/div/span"
     expected_text_xpath = "//*[text()='Add player']"
     email_field_add_player_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[2]/div/div[1]/div/div/input"
     name_field_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[2]/div/div[2]/div/div/input"

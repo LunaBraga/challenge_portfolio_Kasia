@@ -21,7 +21,7 @@ class Dashboard(BasePage):
     reports_count_xpath = "//*[text()='Reports count']"
     event_count_text_xpath = "//*[text()='Events count']"
     add_player_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[2]/div/div/a/button/span[1]"
-    super_man_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[3]/div/div/a[5]/button/span[1]"
+    new_player_button_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[3]/div/div/a[5]/button/span[1]"
     added_player_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[3]/div/div/a[1]/button/span[1]"
     expected_text = "Anna Stone"
 
@@ -33,7 +33,7 @@ class Dashboard(BasePage):
         self.click_on_the_element(self.sign_out_button_xpath)
 
     def click_on_the_super_man_button(self):
-        self.click_on_the_element(self.super_man_button_xpath)
+        self.click_on_the_element(self.new_player_button_xpath)
 
     def click_on_the_polski_button(self):
         self.click_on_the_element(self.language_field_xpath)

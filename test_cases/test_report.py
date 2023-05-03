@@ -28,7 +28,7 @@ class TestReport(unittest.TestCase):
         user_login.click_on_the_sign_in_button()
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
-        dashboard_page.click_on_the_super_man_button()
+        dashboard_page.click_on_the_new_player_button()
         players = Report(self.driver)
         players.click_on_the_reports_button()
         players.click_on_the_add_report_button()

@@ -15,6 +15,7 @@ class LoginPage(BasePage):
     send_button_xpath = "//*[text()='Send']"
     expected_text_xpath = "//*[text()='Scouts Panel']"
     expected_text = "Scouts Panel"
+    logo_filed_xpath= "//*[id='__next']/div[1]main/div[3]/div[1]/div/div[1]"
 
     def type_in_email(self, email):
         self.field_send_keys(self.login_field_xpath, email)

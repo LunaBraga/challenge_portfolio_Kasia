@@ -8,6 +8,7 @@ class Report(BasePage):
     futbol_kolektyw_button_xpath = '//*[@title="Logo Scouts Panel"]'
     reports_button_xpath = "//*[@id='__next']/div[1]/div/div/div/ul[2]/div[3]/div[2]/span"
     add_report_button_xpath = "//*[@id='__next']/div[1]/main/a/button/span[1]"
+    my_team_xpath = "//*[@id='__next']/div[1]/main/div[2]/div/table/thead/tr/th[1]"
     expected_title = "Scouts panel"
 
     def title_of_page(self):
