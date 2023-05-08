@@ -101,6 +101,7 @@ modern technologies.
 
 ## My experience
 
+My previous experience was initially associated with working as a PR manager and then for 10 years as an Account Manager.
 
 
 ## Courses
