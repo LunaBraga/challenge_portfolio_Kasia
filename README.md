@@ -206,4 +206,3 @@ Test cases made during course „Manual Tests” <a href = "https://docs.google.
 
 
 
-
