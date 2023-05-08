@@ -101,8 +101,7 @@ modern technologies.
 
 ## My experience
 
-My previous experience was initially associated with working as a PR manager and then for 10 years as an Account Manager.
-
+My previous experience was initially associated with working as a PR manager and then for 10 years as an Account Manager. So far, I have worked on projects related to new technologies: creating websites and applications. Due to the fact that I always wanted to ensure the best performance of the projects, all of them were tested by me. I made Excel with all Bugs for Developers. We are working together on all projects improvement. 
 
 ## Courses
 
@@ -156,6 +155,8 @@ My previous experience was initially associated with working as a PR manager and
 
 
 ## My projects
+All webbistes that I manual tested:
+
 
 
 ### Automated tests
