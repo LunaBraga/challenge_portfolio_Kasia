@@ -127,32 +127,45 @@ modern technologies.
 
 ## Tools
 
+
 • Jira
 
-• Figma 
+• Figma
+
 • Slack - for communication within the team
+
 • Chrome DevTools - for testing and to improve bug reports
+
 • Git, Git Bash, GitHub
+
 • Selenium IDE - tool use to support automated testing
+
 • Selenium WebDriver - for automated testing of web applications
+
 • HTML/CSS
-Google Analytics
+
+• Google Analytics
+
+
 
 ## Blogs I read
-testerzy.pl
-
-Bug on electro.pl site LINK to bug
-Bugs on Ben and Jerry's UK site LINK to bugs
-
-## Test cases
-
-Test cases from
 
 
-HTML/CSS
+• testerzy.pl
 
-I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.
 
-LINK to my tester CV made during Marathon
+## My projects
+
+
+### Automated tests
+Git hub projects made during course "Automated Tests + Python” https://github.com/LunaBraga/challenge_portfolio_Kasia
+
+
+### Test cases
+Test cases made during course „Manual Tests” 
+
+
+
+
 
 
