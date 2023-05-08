@@ -200,7 +200,7 @@ Git hub projects made during course "Automated Tests + Python” <a href = "http
 
 
 ### Test cases
-Test cases made during course „Manual Tests” https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link
+Test cases made during course „Manual Tests” <a href = "https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link">Link to my test cases</a>
 
 
 
