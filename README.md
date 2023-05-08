@@ -87,3 +87,62 @@ Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzę
 
 https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sharing
 
+# Task 6
+
+
+
+
+## About me
+For 5 years I have been working with many projects: landing pages and e-commerce
+websites among others. Usually I use the Waterfall methodology but I am also versed in
+Agile and Scrum. I cooperate with a team of programmers.
+Currently, I am learning HTML, CSS and Java Script. I want to widen my knowledge of
+modern technologies.
+
+## My experience
+
+
+
+## Courses
+
+• „Automated Tests + Python” (in progress) from Dare IT Sp. z o.o.
+• „Manual Tests” (in progress) from Dare IT Sp. z o.o.
+• 6-day HTML/CSS Marathon from GoIT
+• „Basic Jira” – project management from Udemy 
+• „Remote team management” from Udemy 
+• „Agile Project Management„ – basics, theory, practice from Udemy 
+• „Scrum Master Online Course” from Udemy 
+• „Excel XP” – basic course
+• „Scrum Master Online Course”
+
+
+## Tools
+
+• Jira
+• Figma 
+• Slack - for communication within the team
+• Chrome DevTools - for testing and to improve bug reports
+• Git, Git Bash, GitHub
+• Selenium IDE - tool use to support automated testing
+• Selenium WebDriver - for automated testing of web applications
+• HTML/CSS
+Google Analytics
+
+## Blogs I read
+testerzy.pl
+
+Bug on electro.pl site LINK to bug
+Bugs on Ben and Jerry's UK site LINK to bugs
+
+## Test cases
+
+Test cases from
+
+
+HTML/CSS
+
+I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.
+
+LINK to my tester CV made during Marathon
+
+
