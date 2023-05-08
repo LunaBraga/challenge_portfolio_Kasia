@@ -89,8 +89,11 @@ https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sha
 
 # Task 6
 
+## Subtask 4 - Report
+< a href "https://docs.google.com/spreadsheets/d/1mNcD6MblJCBzTkWhdbd8_rHpneC7MkQS_jymXSOoj30/edit?usp=share_link">Link to the report</a>
 
 
+##Subtask 4 Portfolio 
 
 ## About me
 For 5 years I have been working with many projects: landing pages and e-commerce websites among others. Usually I use the Waterfall methodology but I am also versed in Agile and Scrum. I cooperate with a team of programmers. Currently, I am learning Automated & Manualy Tested,  HTML, CSS and Java Script. I want to widen my knowledge of modern technologies. 
