@@ -106,19 +106,29 @@ modern technologies.
 ## Courses
 
 • „Automated Tests + Python” (in progress) from Dare IT Sp. z o.o.
+
 • „Manual Tests” (in progress) from Dare IT Sp. z o.o.
+
 • 6-day HTML/CSS Marathon from GoIT
+
 • „Basic Jira” – project management from Udemy 
+
 • „Remote team management” from Udemy 
+
 • „Agile Project Management„ – basics, theory, practice from Udemy 
+
 • „Scrum Master Online Course” from Udemy 
+
 • „Excel XP” – basic course
+
 • „Scrum Master Online Course”
+
 
 
 ## Tools
 
 • Jira
+
 • Figma 
 • Slack - for communication within the team
 • Chrome DevTools - for testing and to improve bug reports
