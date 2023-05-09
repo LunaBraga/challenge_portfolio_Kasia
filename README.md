@@ -96,6 +96,7 @@ https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sha
 
 ## Subtask 4 Portfolio 
 
+
 ## About me
 For 5 years I have been working with many projects: landing pages and e-commerce websites among others. Usually I use the Waterfall methodology but I am also versed in Agile and Scrum. I cooperate with a team of programmers. Currently, I am learning Automated & Manualy Tested,  HTML, CSS and Java Script. I want to widen my knowledge of modern technologies. 
 
