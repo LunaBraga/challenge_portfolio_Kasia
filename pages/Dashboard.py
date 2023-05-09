@@ -9,7 +9,7 @@ from pages.base_page import BasePage
 class Dashboard(BasePage):
     futbol_kolektyw_button_xpath = '//*[@title="Logo Scouts Panel"]'
     expected_title = "Scouts panel"
-    dashboard_url = 'https://scouts-test.futbolkolektyw.pl/'
+    dashboard_url = 'https://scouts.futbolkolektyw.pl/en/"'
     wait = WebDriverWait(driver, 10)
     main_page_hyperlink_xpath = "//*[contains(@class, 'MuiTypography-root')]"
     players_text_xpath = "//*[text()='Players']"

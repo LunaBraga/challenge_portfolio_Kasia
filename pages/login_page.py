@@ -6,7 +6,7 @@ class LoginPage(BasePage):
     remind_password_hyperlink_xpath = "//*[text()='Remind password']"
     password_field_xpath = "//*[@id='password']"
     sign_in_button_xpath = "//*[contains(@class,'MuiButton-label')]"
-    login_url = "https://scouts-test.futbolkolektyw.pl/en"
+    login_url = "https://scouts.futbolkolektyw.pl/en/"
     expected_title = "Scouts panel - sign in"
     english_language_xpath = "//*[text()='English']"
     english_field_xpath = "//*[@id='__next']/div[1]/div/div/div/ul[2]/div[1]/div[2]/span"
