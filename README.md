@@ -90,7 +90,7 @@ https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sha
 # Task 6
 
 ## Subtask 2 
-<a href= "https://docs.google.com/spreadsheets/d/1uINWojSY8omalwehDYm-fyhuZBtKSq0w/edit?usp=share_link&ouid=115404621143082993739&rtpof=true&sd=true">Link to the lists og bugs</a>
+<a href= "https://docs.google.com/spreadsheets/d/1uINWojSY8omalwehDYm-fyhuZBtKSq0w/edit?usp=share_link&ouid=115404621143082993739&rtpof=true&sd=true">Link to the list of bugs</a>
 
 
 ## Subtask 3 - Report
