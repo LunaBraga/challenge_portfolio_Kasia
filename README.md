@@ -89,9 +89,12 @@ https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sha
 
 # Task 6
 
-## Subtask 4 - Report
-<a href= "https://docs.google.com/spreadsheets/d/1mNcD6MblJCBzTkWhdbd8_rHpneC7MkQS_jymXSOoj30/edit?usp=share_link">Link to the report</a>
+## Subtask 2 
+<a href= "https://docs.google.com/spreadsheets/d/1uINWojSY8omalwehDYm-fyhuZBtKSq0w/edit?usp=share_link&ouid=115404621143082993739&rtpof=true&sd=true">Link to the lists og bugs</a>
 
+
+## Subtask 3 - Report
+<a href= "https://docs.google.com/spreadsheets/d/1mNcD6MblJCBzTkWhdbd8_rHpneC7MkQS_jymXSOoj30/edit?usp=share_link">Link to the report</a>
 
 
 ## Subtask 4 Portfolio 
