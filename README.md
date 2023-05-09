@@ -87,3 +87,130 @@ Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzę
 
 https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sharing
 
+# Task 6
+
+## Subtask 2 
+<a href= "https://docs.google.com/spreadsheets/d/1uINWojSY8omalwehDYm-fyhuZBtKSq0w/edit?usp=share_link&ouid=115404621143082993739&rtpof=true&sd=true">Link to the list of bugs</a>
+
+
+## Subtask 3 - Report
+<a href= "https://docs.google.com/spreadsheets/d/1mNcD6MblJCBzTkWhdbd8_rHpneC7MkQS_jymXSOoj30/edit?usp=share_link">Link to the report</a>
+
+
+## Subtask 4 Portfolio 
+
+
+## About me
+For 5 years I have been working with many projects: landing pages and e-commerce websites among others. Usually I use the Waterfall methodology but I am also versed in Agile and Scrum. I cooperate with a team of programmers. Currently, I am learning Automated & Manualy Tested,  HTML, CSS and Java Script. I want to widen my knowledge of modern technologies. 
+
+
+## My experience
+
+My previous experience was initially associated with working as a PR manager and then for 10 years as an Account Manager. So far, I have worked on projects related to new technologies: creating websites and applications. Due to the fact that I always wanted to ensure the best performance of the projects, all of them were tested by me. I made Excel included all Bugs that I found for Developers. We are also working together on all projects improvement. 
+
+
+## Courses
+
+• „Automated Tests + Python” (in progress) from Dare IT Sp. z o.o.
+
+• „Manual Tests” (in progress) from Dare IT Sp. z o.o.
+
+• 6-day HTML/CSS Marathon from GoIT
+
+• „Basic Jira” – project management from Udemy 
+
+• „Remote team management” from Udemy 
+
+• „Agile Project Management„ – basics, theory, practice from Udemy 
+
+• „Scrum Master Online Course” from Udemy 
+
+• „Excel XP” – basic course
+
+• „Scrum Master Online Course”
+
+
+
+## Tools
+
+
+• Jira 
+
+• Figma - to communicate with designers, developers and to made HTML & CSS projects by myself (CV). 
+
+• Slack - for communication within the team
+
+• Chrome DevTools - for testing and to improve bug reports
+
+• Git, Git Bash, GitHub
+
+• Selenium IDE - tool use to support automated testing
+
+• Selenium WebDriver - for automated testing of web applications
+
+• HTML/CSS
+
+• Google Analytics
+
+
+
+## Blogs I read
+
+
+• testerzy.pl
+
+
+## My projects
+Lists of some websites that I tested manualy:
+
+• https://tefal.lt/lt_LT/
+
+• https://tefal.lv/lv_LV/
+
+• https://tefal.ee/et_EE/
+
+• https://lp.tefal.lt/blenders
+
+• https://lp.tefal.lv/blenders
+
+• https://lp.tefal.ee/blenders
+
+• https://lp.tefal.lt/optigrill
+
+• https://lp.tefal.lv/optigrill
+
+• https://lp.tefal.ee/optigrill
+
+• https://lp.tefal.lt/xforce-flex-1460
+
+• https://lp.tefal.lv/xforce-flex-1460
+
+• https://lp.tefal.ee/xforce-flex-1460
+
+• https://lp.tefal.lt/licencetoclean
+
+• https://lp.tefal.lv/licencetoclean
+
+• https://lp.tefal.ee/licencetoclean
+
+• https://perlowapijalniapiwa.pl/
+
+• https://skutecznieposprzatane.pl/
+
+• https://tefalxplorer.pl/
+
+• https://xforceflex.pl/
+
+
+
+### Automated tests
+Git hub projects made during course "Automated Tests + Python” <a href = "https://github.com/LunaBraga/challenge_portfolio_Kasia">Link to my Github</a> 
+
+
+### Test cases
+Test cases made during course „Manual Tests” <a href = "https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link">Link to my test cases</a>
+
+
+
+
+
