@@ -109,16 +109,16 @@ Robot framework <a href="https://github.com/LunaBraga/Kasia_Panel_Scouts_Robotfr
 ## Subtask 4 Portfolio 📁💻📱
 
 
-## About me
+## About me 👩‍💻
 For 5 years I have been working with many projects: landing pages and e-commerce websites among others. Usually I use the Waterfall methodology but I am also versed in Agile and Scrum. I cooperate with a team of programmers. Currently, I am learning Automated & Manualy Tested,  HTML, CSS and Java Script. I want to widen my knowledge of modern technologies. 
 
 
-## My experience
+## My experience ✨
 
 My previous experience was initially associated with working as a PR manager and then for 10 years as an Account Manager. So far, I have worked on projects related to new technologies: creating websites and applications. Due to the fact that I always wanted to ensure the best performance of the projects, all of them were tested by me. I made Excel included all Bugs that I found for Developers. We are also working together on all projects improvement. 
 
 
-## Courses
+## Courses 🚀🐱‍💻
 
 • „Automated Tests + Python” (in progress) from Dare IT Sp. z o.o.
 
@@ -138,7 +138,7 @@ My previous experience was initially associated with working as a PR manager and
 
 
 
-## Tools
+## Tools 🧰✨
 
 
 • Jira 
@@ -161,13 +161,13 @@ My previous experience was initially associated with working as a PR manager and
 
 
 
-## Blogs I read
+## Blogs I read ♥💻
 
 
 • testerzy.pl
 
 
-## My projects
+## My projects 💻📱
 Lists of some websites that I tested manualy:
 
 • https://tefal.lt/lt_LT/
@@ -210,11 +210,11 @@ Lists of some websites that I tested manualy:
 
 
 
-### Automated tests
+### Automated tests 🤖💻📱
 Git hub projects made during course "Automated Tests + Python” <a href = "https://github.com/LunaBraga/challenge_portfolio_Kasia">Link to my Github</a> 
 
 
-### Test cases
+### Test cases 📁💻📱
 Test cases made during course „Manual Tests” <a href = "https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link">Link to my test cases</a>
 
 
