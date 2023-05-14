@@ -1,19 +1,20 @@
 # Task 1⚜️
 
-<h1>Podzadanie 1: konfiguracja oprogramowania</h1> 🚀🚀🚀
-<h3>Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?"</h3>✨
+<h1>Subtask 1: software configurationa</h1> 🚀🚀🚀
+<h3>Subtask 1: Why did I decide to take part in the Dare IT Challenge?"</h3>✨
 
-Moja dotychczasowa ścieżka kariery nie pozwalała mi na rozwijanie moich umiejętności i wiedzy dotyczącej nowych technologii. 
+EN: My career path so far has not allowed me to develop my skills and knowledge of new technologies. That is why I decided to take part in the challenge and change the industry and profession.
+
+I decided to take part in the course because I would like to learn new issues and learn about development opportunities. I really care about learning the skills and tools useful in the new profession.
+
+PL: Moja dotychczasowa ścieżka kariery nie pozwalała mi na rozwijanie moich umiejętności i wiedzy dotyczącej nowych technologii. 
 Dlatego zdecydowałam się podjąć wyzwanie i zmienić branżę oraz zawód. 
-
-
 
 Decyzje o wzięciu udziału w kursie podjełam ponieważ chiałabym uczyć się nowych zagadnień i poznać możliwości rozwoju. 
 Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzędzi. 
  
 
-
-<h1>Task 2: selektory</h1> ⚜️
+<h1>Task 2: selectors</h1> ⚜️
 
 <strong>remaind_password_hyperlink_xpath</strong>
 <ul>
@@ -87,18 +88,22 @@ Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzę
 
 # Task 4 ⚜️
 
-<a href= "https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sharing">Link</a>
+<a href= "https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sharing">Link</a> 💻🚀
+
+# Task 5 ⚜️
+
+<a href="https://github.com/LunaBraga/Kasia_Panel_Scouts_Robotframwork2"<Robot framework</a> 🤖🤖🤖
 
 # Task 6 ⚜️
 
 ## Subtask 2 
-<a href= "https://docs.google.com/spreadsheets/d/1uINWojSY8omalwehDYm-fyhuZBtKSq0w/edit?usp=share_link&ouid=115404621143082993739&rtpof=true&sd=true">Link to the list of bugs</a>
+<a href= "https://docs.google.com/spreadsheets/d/1uINWojSY8omalwehDYm-fyhuZBtKSq0w/edit?usp=share_link&ouid=115404621143082993739&rtpof=true&sd=true">Link to the list of bugs</a> 🐛🐜🐝🐞🦟
 
 
 ## Subtask 3 - Report 🔍💻
-<a href= "https://docs.google.com/spreadsheets/d/1mNcD6MblJCBzTkWhdbd8_rHpneC7MkQS_jymXSOoj30/edit?usp=share_link">Link to the report</a>
+<a href= "https://docs.google.com/spreadsheets/d/1mNcD6MblJCBzTkWhdbd8_rHpneC7MkQS_jymXSOoj30/edit?usp=share_link">Link to the report</a>🔍📁
 
-Robot framework <a href="https://github.com/LunaBraga/Kasia_Panel_Scouts_Robotframwork2">Link to github</a>
+Robot framework <a href="https://github.com/LunaBraga/Kasia_Panel_Scouts_Robotframwork2">Link to github</a>🤖🚀
 
 
 ## Subtask 4 Portfolio 📁💻📱
@@ -125,13 +130,11 @@ My previous experience was initially associated with working as a PR manager and
 
 • „Remote team management” from Udemy 
 
-• „Agile Project Management„ – basics, theory, practice from Udemy 
+• „Agile Project Management – basics, theory, practice" from Udemy 
 
 • „Scrum Master Online Course” from Udemy 
 
 • „Excel XP” – basic course
-
-• „Scrum Master Online Course”
 
 
 
