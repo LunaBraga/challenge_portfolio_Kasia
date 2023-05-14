@@ -1,5 +1,7 @@
-<h1>Podzadanie 1: konfiguracja oprogramowania</h1> 
-<h3>Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?"</h3>
+# Task 1⚜️
+
+<h1>Podzadanie 1: konfiguracja oprogramowania</h1> 🚀🚀🚀
+<h3>Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?"</h3>✨
 
 Moja dotychczasowa ścieżka kariery nie pozwalała mi na rozwijanie moich umiejętności i wiedzy dotyczącej nowych technologii. 
 Dlatego zdecydowałam się podjąć wyzwanie i zmienić branżę oraz zawód. 
@@ -11,7 +13,7 @@ Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzę
  
 
 
-<h1>ZADANIE 2: selektory</h1>
+<h1>Task 2: selektory</h1> ⚜️
 
 <strong>remaind_password_hyperlink_xpath</strong>
 <ul>
@@ -83,23 +85,23 @@ Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzę
 <li>//*[contains(@class, "MuiTypography-root MuiLink")]</li> 
 </ul>
 
-# Zadanie 4
+# Task 4 ⚜️
 
-https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sharing
+<a href= "https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sharing">Link</a>
 
-# Task 6
+# Task 6 ⚜️
 
 ## Subtask 2 
 <a href= "https://docs.google.com/spreadsheets/d/1uINWojSY8omalwehDYm-fyhuZBtKSq0w/edit?usp=share_link&ouid=115404621143082993739&rtpof=true&sd=true">Link to the list of bugs</a>
 
 
-## Subtask 3 - Report
+## Subtask 3 - Report 🔍💻
 <a href= "https://docs.google.com/spreadsheets/d/1mNcD6MblJCBzTkWhdbd8_rHpneC7MkQS_jymXSOoj30/edit?usp=share_link">Link to the report</a>
 
 Robot framework <a href="https://github.com/LunaBraga/Kasia_Panel_Scouts_Robotframwork2">Link to github</a>
 
 
-## Subtask 4 Portfolio 
+## Subtask 4 Portfolio 📁💻📱
 
 
 ## About me
