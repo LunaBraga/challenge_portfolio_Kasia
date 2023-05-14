@@ -1,4 +1,4 @@
-<h1>Podzadanie 1: konfiguracja oprogramowania</h1>
+<h1>Podzadanie 1: konfiguracja oprogramowania</h1> 
 <h3>Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?"</h3>
 
 Moja dotychczasowa ścieżka kariery nie pozwalała mi na rozwijanie moich umiejętności i wiedzy dotyczącej nowych technologii. 
