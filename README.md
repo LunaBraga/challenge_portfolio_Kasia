@@ -1,6 +1,6 @@
 # Task 1⚜️
 
-<h1>Subtask 1: software configurationa</h1> 🚀🚀🚀
+<h1>Subtask 1: software configuration</h1> 🚀🚀🚀
 <h3>Subtask 1: Why did I decide to take part in the Dare IT Challenge?"</h3>✨
 
 EN: My career path so far has not allowed me to develop my skills and knowledge of new technologies. That is why I decided to take part in the challenge and change the industry and profession.
