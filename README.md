@@ -6,7 +6,7 @@
 EN: My career path so far has not allowed me to develop my skills and knowledge of new technologies. That is why I decided to take part in the challenge and change the industry and profession.
 
 I decided to take part in the course because I would like to learn new issues and learn about development opportunities. I really care about learning the skills and tools useful in the new profession.
-
+ 
 PL: Moja dotychczasowa ścieżka kariery nie pozwalała mi na rozwijanie moich umiejętności i wiedzy dotyczącej nowych technologii. 
 Dlatego zdecydowałam się podjąć wyzwanie i zmienić branżę oraz zawód. 
 
