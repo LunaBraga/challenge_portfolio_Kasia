@@ -1,4 +1,4 @@
-# Task 1⚜️
+# Task 1⚜️ 
 
 <h1>Subtask 1: software configuration</h1> 🚀🚀🚀
 <h3>Subtask 1: Why did I decide to take part in the Dare IT Challenge?"</h3>✨
