@@ -88,7 +88,9 @@ Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzę
 
 # Task 4 ⚜️
 
-<a href= "https://drive.google.com/drive/folders/1HZKCgxgNlksBbFqU4cqOH8WLyBMEsx83?usp=sharing">Link</a> 💻🚀
+<a href= "https://drive.google.com/drive/folders/1QySO7nyoaFS8F9hukC2HMCj81PLtmwun?usp=drive_link">Test cases</a> 💻🚀
+
+<a href= "https://drive.google.com/drive/folders/1x8H9iVcK57LF8KdkwjlsDkBxNkZM-Nxk?usp=drive_link">Recordings from running tests</a> 💻🚀
 
 # Task 5 ⚜️
 
